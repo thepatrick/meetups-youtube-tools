@@ -13,7 +13,7 @@
     "googleapis": "^122.0.0",
     "graphql-request": "^6.0.0",
     "html2plaintext": "^2.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.35",
     "ramda": "^0.29.0",
     "yargs": "^17.0.0"
