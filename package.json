@@ -19,7 +19,7 @@
     "yargs": "^14.0.0"
   },
   "devDependencies": {
-    "prettier": "^1.18.2",
-    "semistandard": "^14.2.0"
+    "prettier": "^3.0.0",
+    "semistandard": "^17.0.0"
   }
 }
