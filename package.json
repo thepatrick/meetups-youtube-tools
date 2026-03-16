@@ -14,8 +14,8 @@
     "graphql-request": "^7.0.0",
     "html2plaintext": "^2.1.2",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.35",
-    "ramda": "^0.29.0",
+    "moment-timezone": "^0.6.0",
+    "ramda": "^0.32.0",
     "yargs": "^18.0.0"
   },
   "devDependencies": {
