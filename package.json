@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "google-auth-library": "^10.0.0",
-    "googleapis": "^167.0.0",
+    "googleapis": "^172.0.0",
     "graphql-request": "^7.0.0",
     "html2plaintext": "^2.1.2",
     "moment": "^2.29.4",
